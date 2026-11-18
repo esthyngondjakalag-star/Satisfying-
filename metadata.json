@@ -1,0 +1,8 @@
+{
+  "name": "ClientPulse 360",
+  "description": "Plateforme SaaS B2B intelligente de gestion des réclamations, SAV, respect des SLA et pilotage de la satisfaction client (CSAT, NPS, CES).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
